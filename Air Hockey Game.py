@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 20:42:53 2020
-
-@author: dozie
-"""
-
 # Import the pygame module
 import pygame
 
